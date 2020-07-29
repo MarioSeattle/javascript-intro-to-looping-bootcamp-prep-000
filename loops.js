@@ -37,7 +37,7 @@ function doWhileLoop(i){
 
 function incrementVariable() {
   
-  incVar =+ 1;
+  incVar += 1;
   return incVar;
 }
 
