@@ -33,7 +33,7 @@ function whileLoop(n){
 
 function doWhileLoop(i){
   
-  var incVar = 0;
+  var incVar = 1;
 
 function incrementVariable() {
   
